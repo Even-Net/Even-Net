@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Even-Net
+- 👀 I’m interested-game programming, website and hacking
+- 🌱 I’m currently-learning Html
+- 💞️ I’m looking to collaborate-with my friends to programme a game
+- 📫 How to reach-me I'm still learning the basics but with hard work I will get there
